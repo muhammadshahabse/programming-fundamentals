@@ -1,5 +1,60 @@
-# programming-fundamentals
-A collection of beginner-level C++ programming assignments, concepts, and practical examples designed to build a strong foundation in programming fundamentals. Includes topics like variables, control structures, loops, functions, arrays, file handling, and pointers.
+<h1>💻 Programming Fundamentals - C++</h1>
+
+<p>A curated collection of beginner-friendly C++ programming assignments, concepts, and practical examples. This repository is designed to help build a strong foundation in programming fundamentals, suitable for students and anyone starting with C++.</p>
+
+<hr/>
+
+<h2>📚 Topics Covered</h2>
+<ul>
+  <li>Variables and Data Types</li>
+  <li>Input/Output Operations</li>
+  <li>Control Structures (if-else, switch-case)</li>
+  <li>Loops (for, while, do-while)</li>
+  <li>Functions</li>
+  <li>Arrays and Strings</li>
+  <li>File Handling</li>
+  <li>Pointers</li>
+  <li>Structures</li>
+</ul>
+
+<hr/>
+
+<h2>🛠️ Mini Projects</h2>
+<ul>
+  <li><strong>Library Management System</strong> - A console-based application to manage library books (add, search, issue, return, update, delete).</li>
+  <li><strong>Train Seat Reservation System</strong> - A simple system to book and cancel train seats using structures and pointers.</li>
+  <li><strong>Student Record System</strong> - A program to store and manage student records including marks, grades, and personal information.</li>
+</ul>
+
+<hr/>
+
+<h2>🎯 Purpose</h2>
+<p>This repository aims to:</p>
+<ul>
+  <li>Strengthen basic programming skills in C++.</li>
+  <li>Provide practice problems and solutions for self-study.</li>
+  <li>Prepare students for advanced programming, data structures, and algorithms.</li>
+</ul>
+
+<hr/>
+
+<h2>🚀 Getting Started</h2>
+<ol>
+  <li>Clone the repository or download the ZIP file.</li>
+  <li>Use a C++ compiler (e.g., g++, Dev-C++, Code::Blocks, or Visual Studio) to run the programs.</li>
+  <li>Modify and practice with the code to enhance your understanding.</li>
+</ol>
+
+<hr/>
+
+<h2>🙌 Contributions</h2>
+<p>Contributions, suggestions, and improvements are welcome! Feel free to fork the repository and submit a pull request.</p>
+
+<hr/>
+
+<h2>👨‍💻 Author</h2>
+<p>Maintained by Muhammad Shahab</p>
+
 <h1>📚 Library Management System - C++ Console Application</h1>
 
 <p>This is a simple Library Management System built using C++. It is a console-based application that allows users to manage library books with options to add, search, display, issue, return, update, and delete book records.</p>
